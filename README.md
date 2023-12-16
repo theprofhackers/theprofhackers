@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - https://t.me/theproffhacker
-- https://icq.im/theproffhacker
+- https://icq.im/theprohacker
 
 <!---
 theprofhackers/theprofhackers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
